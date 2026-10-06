@@ -1,0 +1,11 @@
+{
+  "name": "async_await_sir_mubashir",
+  "version": "1.0.0",
+  "description": "This is asyn programing",
+  "license": "MIT",
+  "author": "Asma_Akbar",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
