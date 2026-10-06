@@ -142,3 +142,7 @@ async/await → Promise ko simple sync jaisa likho + try/catch
 npx tsc          # sab .ts files compile → .js
 node async.js    # koi bhi file run karo
 ```
+
+
+```youtube:
+https://www.youtube.com/live/QpqvGyOQ2pE?si=P0_fU1mmRLLSRAIL```
